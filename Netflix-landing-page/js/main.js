@@ -1,6 +1,6 @@
 // Author: Kyan Keise
-// Date:
-// Title: 
+// Date: 19/05/2022
+// Title: Netflix Landing page
 
 const tabItems = document.querySelectorAll('.tab-item');
 const tabContentItems = document.querySelectorAll('.tab-content-item');
